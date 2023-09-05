@@ -10,7 +10,6 @@
   align-items: center;
   width: 498px;
   border-radius: 5px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 }
 
 .userAvatar {
@@ -44,7 +43,6 @@
 
 .tag,
 .location {
-  color: #c6cad2;
   font-weight: 500;
 }
 
@@ -65,7 +63,6 @@
 }
 
 .statsItem span:first-child {
-  color: #c6cad2;
   font-weight: 400;
   font-size: 18px;
 }
